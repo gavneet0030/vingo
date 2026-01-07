@@ -1,0 +1,32 @@
+# Normalize line endings for all files
+* text=auto
+
+# JavaScript/Node files
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.mjs text eol=lf
+
+# CSS
+*.css text eol=lf
+*.scss text eol=lf
+
+# HTML
+*.html text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Config files
+.gitignore text eol=lf
+.env text eol=lf
+.env.* text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.avif binary
+*.webp binary
+*.ico binary
