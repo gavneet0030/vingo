@@ -228,17 +228,45 @@ Full-Stack Web Application • Frontend + Backend Architecture
 
 
 
+<h2 align="center"> Flowchart</h2>
 
+<p align="center">
+  <img src="https://github.com/gavneet0030/vingo/blob/main/chart/chart%20vingo.png"
+       alt="Vingo Application Flowchart"
+       width="85%" />
+</p>
 
+<p align="center">
+  The above flowchart represents the complete working flow of the
+  <b>Vingo</b> application, covering frontend interaction, backend
+  processing, database operations, and live delivery tracking.
+</p>
 
+<p align="center">
+  The workflow begins at the frontend, where <b>HTML</b> provides the
+  structure, <b>CSS</b> handles styling and responsiveness, and
+  <b>JavaScript</b> manages user interactions and API communication.
+</p>
 
+<p align="center">
+  User actions trigger API requests that are processed by the backend.
+  The backend performs authentication, executes business logic, and
+  interacts with the database to fetch or update data.
+</p>
 
+<p align="center">
+  Order-related information is further processed for delivery status,
+  where live tracking and ETA updates are generated and sent back to the
+  frontend in real time.
+</p>
 
+<p align="center">
+  Finally, the frontend updates the user interface dynamically to show
+  real-time order and delivery status, ensuring a smooth and interactive
+  user experience.
+</p>
 
-
-
-
-
+<hr/>
 
 
 <h2 align="center">How to Run the Project</h2>
